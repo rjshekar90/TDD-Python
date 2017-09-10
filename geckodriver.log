@@ -1,0 +1,80 @@
+1504990574994	geckodriver	INFO	geckodriver 0.18.0
+1504990575001	geckodriver	INFO	Listening on 127.0.0.1:40083
+1504990576128	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504990580742	Marionette	INFO	Enabled via --marionette
+[PIPELIGHT:LIN:unknown] attached to process.
+[PIPELIGHT:LIN:unknown] checking environment variable PIPELIGHT_SILVERLIGHT5_1_CONFIG.
+[PIPELIGHT:LIN:unknown] searching for config file pipelight-silverlight5.1.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/home/rjshekar90/.config/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/etc/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/usr/share/pipelight/configs/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] sandbox not found or not installed!
+[PIPELIGHT:LIN:silverlight5.1] using wine prefix directory /home/rjshekar90/.wine-pipelight.
+[PIPELIGHT:LIN:silverlight5.1] checking plugin installation - this might take some time.
+[install-dependency] wine-silverlight5.1-installer is already installed in '/home/rjshekar90/.wine-pipelight'.
+[install-dependency] wine-mpg2splt-installer is already installed in '/home/rjshekar90/.wine-pipelight'.
+fixme:winediag:start_process Wine Staging 1.9.7 is a testing version containing experimental patches.
+fixme:winediag:start_process Please mention your exact version when filing bug reports on winehq.org.
+wine: DLL not found.
+err:wineboot:ProcessRunKeys Error running cmd L"C:\\windows\\system32\\winemenubuilder.exe -a -r" (1157)
+[PIPELIGHT:WIN:silverlight5.1] embedded mode         is on.
+[PIPELIGHT:WIN:silverlight5.1] windowless mode       is off.
+[PIPELIGHT:WIN:silverlight5.1] linux windowless mode is off.
+[PIPELIGHT:WIN:silverlight5.1] force SetWindow       is off.
+[PIPELIGHT:WIN:silverlight5.1] window class hook     is on.
+[PIPELIGHT:WIN:silverlight5.1] strict draw ordering  is off.
+[PIPELIGHT:WIN:silverlight5.1] replaced API function CreateWindowExA.
+[PIPELIGHT:WIN:silverlight5.1] replaced API function CreateWindowExW.
+[PIPELIGHT:WIN:silverlight5.1] replaced API function TrackPopupMenuEx.
+[PIPELIGHT:WIN:silverlight5.1] replaced API function TrackPopupMenu.
+fixme:ntdll:EtwRegisterTraceGuidsW (0x7b8d2127, 0x7b970120, {aa087e0e-0b35-4e28-8f3a-440c3f51eef1}, 1, 0x71f478, (null), (null), 0x7b970120): stub
+fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {aa087e0e-0b35-4e28-8f3a-440c3f51eef1}
+[PIPELIGHT:WIN:silverlight5.1] init successful!
+[PIPELIGHT:WIN:silverlight5.1] OpenGL Vendor: Intel Open Source Technology Center
+[PIPELIGHT:WIN:silverlight5.1] OpenGL Renderer: Mesa DRI Intel(R) Haswell Mobile x86/MMX/SSE2
+[PIPELIGHT:WIN:silverlight5.1] Your GPU is in the whitelist, hardware acceleration should work.
+1504990597082	Marionette	INFO	Listening on port 39726
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504990597213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504990597257	Marionette	DEBUG	loaded listener.js
+fixme:advapi:UnregisterTraceGuids deadbeef: stub
+1504991996260	geckodriver	INFO	geckodriver 0.18.0
+1504991996266	geckodriver	INFO	Listening on 127.0.0.1:36789
+1504991997472	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1504991998711	Marionette	INFO	Enabled via --marionette
+[PIPELIGHT:LIN:unknown] attached to process.
+[PIPELIGHT:LIN:unknown] checking environment variable PIPELIGHT_SILVERLIGHT5_1_CONFIG.
+[PIPELIGHT:LIN:unknown] searching for config file pipelight-silverlight5.1.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/home/rjshekar90/.config/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/etc/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] trying to load config file from '/usr/share/pipelight/configs/pipelight-silverlight5.1'.
+[PIPELIGHT:LIN:unknown] sandbox not found or not installed!
+[PIPELIGHT:LIN:silverlight5.1] using wine prefix directory /home/rjshekar90/.wine-pipelight.
+[PIPELIGHT:LIN:silverlight5.1] checking plugin installation - this might take some time.
+[install-dependency] wine-silverlight5.1-installer is already installed in '/home/rjshekar90/.wine-pipelight'.
+[install-dependency] wine-mpg2splt-installer is already installed in '/home/rjshekar90/.wine-pipelight'.
+fixme:winediag:start_process Wine Staging 1.9.7 is a testing version containing experimental patches.
+fixme:winediag:start_process Please mention your exact version when filing bug reports on winehq.org.
+wine: DLL not found.
+err:wineboot:ProcessRunKeys Error running cmd L"C:\\windows\\system32\\winemenubuilder.exe -a -r" (1157)
+[PIPELIGHT:WIN:silverlight5.1] embedded mode         is on.
+[PIPELIGHT:WIN:silverlight5.1] windowless mode       is off.
+[PIPELIGHT:WIN:silverlight5.1] linux windowless mode is off.
+[PIPELIGHT:WIN:silverlight5.1] force SetWindow       is off.
+[PIPELIGHT:WIN:silverlight5.1] window class hook     is on.
+[PIPELIGHT:WIN:silverlight5.1] strict draw ordering  is off.
+[PIPELIGHT:WIN:silverlight5.1] replaced API function CreateWindowExA.
+[PIPELIGHT:WIN:silverlight5.1] replaced API function CreateWindowExW.
+[PIPELIGHT:WIN:silverlight5.1] replaced API function TrackPopupMenuEx.
+[PIPELIGHT:WIN:silverlight5.1] replaced API function TrackPopupMenu.
+fixme:ntdll:EtwRegisterTraceGuidsW (0x7b8d2127, 0x7b970120, {aa087e0e-0b35-4e28-8f3a-440c3f51eef1}, 1, 0x71f478, (null), (null), 0x7b970120): stub
+fixme:ntdll:EtwRegisterTraceGuidsW   register trace class {aa087e0e-0b35-4e28-8f3a-440c3f51eef1}
+[PIPELIGHT:WIN:silverlight5.1] init successful!
+[PIPELIGHT:WIN:silverlight5.1] OpenGL Vendor: Intel Open Source Technology Center
+[PIPELIGHT:WIN:silverlight5.1] OpenGL Renderer: Mesa DRI Intel(R) Haswell Mobile x86/MMX/SSE2
+[PIPELIGHT:WIN:silverlight5.1] Your GPU is in the whitelist, hardware acceleration should work.
+1504992003208	Marionette	INFO	Listening on port 35593
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1504992003301	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504992003367	Marionette	DEBUG	loaded listener.js
+fixme:advapi:UnregisterTraceGuids deadbeef: stub
